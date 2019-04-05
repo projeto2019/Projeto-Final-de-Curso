@@ -10,8 +10,8 @@ BluetoothSerial SerialBT;
  
 //Credenciais para connectar á internet
 const char* ssid = "eduroam"; //MEO-66B281
-const char* password = "your password"
-const char* username = "your username";
+const char* password = "8VhviYAD"; // 670F64B8D4
+const char* username = "44098@alunos.isel.ipl.pt";
  
 
 //exectuado quando alguem acede á pagina web.
